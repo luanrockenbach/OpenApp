@@ -1,5 +1,3 @@
-# CREATED BY: LUAN ROCKENBACH
-
 import functions
 import json
 import sys
