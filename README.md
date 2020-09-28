@@ -8,6 +8,6 @@ Algoritimo para execução de aplicativos e sites de forma direta, sem necessida
 Transformar esse algoritmo num gerenciador de arquivos controlado por voz.
 ***
 
-- [x] Criar o algoritmo de para executar os arquivos.
-- [ ] Adicionar um buscador de diretórios automático.
+- [x] Criar o algoritmo para executar os arquivos.
+- [ ] Adicionar um buscador de diretórios.
 - [ ] adicionar controle por voz.
